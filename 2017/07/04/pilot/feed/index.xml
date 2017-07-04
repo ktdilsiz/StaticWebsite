@@ -6,11 +6,11 @@
 	
 	>
 <channel>
-	<title>Comments for Design by Hanna</title>
-	<atom:link href="http://hannadesign.me/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://hannadesign.me</link>
+	<title>Comments on: Pilot</title>
+	<atom:link href="http://hannadesign.me/2017/07/04/pilot/feed/" rel="self" type="application/rss+xml" />
+	<link>http://hannadesign.me/2017/07/04/pilot/</link>
 	<description></description>
-	<lastBuildDate>Tue, 04 Jul 2017 15:40:17 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Jul 2017 15:40:21 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8</generator>
